@@ -14,6 +14,7 @@ namespace MvcMovie
     {
         public static void Main(string[] args)
         {
+            //Teste
             BuildWebHost(args).Run();
         }
 
